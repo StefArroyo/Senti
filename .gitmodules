@@ -1,0 +1,8 @@
+[submodule "SentiAPI"]
+	path = SentiAPI
+	url = https://github.com/earro017/SentiAPI.git
+	branch = master
+[submodule "SentiAnalyzer"]
+	path = SentiAnalyzer
+	url = https://github.com/earro017/SentiAnalyzer.git
+	branch = master

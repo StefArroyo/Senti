@@ -6,3 +6,6 @@
 	path = SentiAnalyzer
 	url = https://github.com/earro017/SentiAnalyzer.git
 	branch = master
+[submodule "SentiWeb"]
+	path = SentiWeb
+	url = https://github.com/earro017/SentiWeb.git
